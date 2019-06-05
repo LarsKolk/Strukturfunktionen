@@ -269,6 +269,7 @@
     \begin{itemize}
       \item{$F_1 \,\hat{=} \, \text{Magnetischer Formfaktor} $}
       \item{$\text{Spin} = 0 \rightarrow F_1 = 0$}
+      \item{$F_2 \,\hat{=} \, \text{Formfaktor mit magnetischen und elektrischen Beitrag} $}
     \end{itemize}
     \item{tief-inelastische Streuung $\rightarrow Q^2 \gg  m^2_\text{p} y^2 $}
     \item{$x \,\hat{=} \text{Bjorken x} \equiv \frac{Q^2}{2 p_2 q} $}
@@ -326,6 +327,12 @@
     \begin{itemize}
       \item{Bjorken-x entspricht Impulsbruchteil eines Partons}
       \item{Betrachtung der Parton-Verteilungsfunktion}
+      \item{Für verschiedene Impulsbruchteile lassen sich mit jeweils verschiedenen $Q^2$ verschiedene Partondichten finden.}
+      \begin{itemize}
+        \item{Impulsbruchteile auf $0 \le x \le 1$ beschränkt}
+        \item{Energie ist dagegen nach oben offen.}
+        \item{Wird durch DGLAP-Gleichungen beschrieben}
+      \end{itemize}
     \end{itemize}
   \end{column}
 \end{columns}
@@ -460,10 +467,10 @@ Eckdaten:
 \end{frame}
 
 \begin{frame}{Beispiel}
-  ep $\rightarrow$ $\nu$ X
+  ep $\rightarrow$ ep
   \begin{figure}
     \centering
-    \includegraphics[width=0.50\textwidth]{images/ep-vx.png}
+    \includegraphics[width=0.50\textwidth]{images/ep-ep.png}
   \end{figure}
 \end{frame}
 
@@ -504,14 +511,14 @@ Eckdaten:
 
 \begin{frame}{Proton PDF}
   \begin{columns}
-    \begin{column}{0.55\textwidth}
+    \begin{column}{0.5\textwidth}
       \begin{figure}
     \centering
     \includegraphics[scale=0.30]{images/Proton-PDF.png}
   \end{figure}
     \end{column}
 
-    \begin{column}{0.45\textwidth}
+    \begin{column}{0.5\textwidth}
       \begin{itemize}
         %\item{Messung veröffentlicht im Particle Data Group, Chin. Phys. C 40 (2016) 100001}
         \item{Das Proton besteht nicht nur Valenzquarks, es sind auch See-Quarks und Gluonen zu finden}
@@ -522,7 +529,14 @@ Eckdaten:
         \item{Es lässt sich beobachten:}
         \begin{itemize}
           \item { $\displaystyle \int_{0}^1 u_\text{v} \symup{d}x = 2$ und  $\displaystyle  \int_{0}^1 d_\text{v} \symup{d}x = 1$ }
-          \item { $\displaystyle  \int_{0}^1 x \left[ u(x)+\bar{u}(x) + d(x)+\bar{d}(x) + s(x)+\bar{s}(x) \right] \symup{d}x = 1 - \frac{p_\text{g}}{p}$ beobachten }
+          \item { $ \displaystyle  \int_{0}^1 x
+          \begin{bmatrix}
+             u(x)+\bar{u}(x) + d(x)+... \\
+             ...\bar{d}(x) + s(x)+\bar{s}(x) \\
+          \end{bmatrix}
+          %\left[ u(x)+\bar{u}(x) + d(x)+\bar{d}(x) + s(x)+\bar{s}(x) \right]
+           \symup{d}x = 1 - \frac{p_\text{g}}{p}$ }
+
         \end{itemize}
         \item{Struktur doch nicht unabhängig von $Q^2$.}
         \item{Größeres $Q^2 \rightarrow $ mehr Quarks mit kleinem $x$}
