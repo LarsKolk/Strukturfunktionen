@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2019.4.28)  5 JUN 2019 02:43
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2019.4.28)  5 JUN 2019 03:09
  restricted system commands enabled.
 **Strukturfunktionen.tex
 (./Strukturfunktionen.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.082 seconds
+luaotfload | main : initialization completed in 0.093 seconds
 (/home/lars/.local/texlive/2018/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
 
@@ -974,11 +974,11 @@ df
 File: gloss-german.ldf polyglossia: module for german
 Module polyglossia Info: Language data for german
 (polyglossia)            loader	loadhyph-de-1901.tex
-(polyglossia)            hyphenation	
 (polyglossia)            patterns	hyph-de-1901.pat.txt
 (polyglossia)            righthyphenmin	2
 (polyglossia)            lefthyphenmin	2
-(polyglossia)            synonyms	table: 0x698ae10
+(polyglossia)            synonyms	table: 0x6053470
+(polyglossia)            hyphenation	
 (polyglossia)            patterns: hyph-de-1901.pat.txt on input line 6
 Module polyglossia Info: Language german was not yet loaded; created with id 4 o
 n input line 6
@@ -986,11 +986,11 @@ Module polyglossia Info: Language german already loaded; id is 4 on input line 6
 
 Module polyglossia Info: Language data for ngerman
 (polyglossia)            loader	loadhyph-de-1996.tex
-(polyglossia)            hyphenation	
 (polyglossia)            patterns	hyph-de-1996.pat.txt
 (polyglossia)            righthyphenmin	2
 (polyglossia)            lefthyphenmin	2
-(polyglossia)            synonyms	table: 0x698afe0
+(polyglossia)            synonyms	table: 0x6053640
+(polyglossia)            hyphenation	
 (polyglossia)            patterns: hyph-de-1996.pat.txt on input line 68
 Module polyglossia Info: Language ngerman was not yet loaded; created with id 8 
 on input line 68
@@ -2135,15 +2135,15 @@ lution 72dpi x 72dpi
 <images/Skalen.png, id=300, 658.46pt x 792.9625pt>
 File: images/Skalen.png Graphic file (type png)
 <use images/Skalen.png>
-Package luatex.def Info: images/Skalen.png  used on input line 498.
+Package luatex.def Info: images/Skalen.png  used on input line 501.
 (luatex.def)             Requested size: 163.71916pt x 197.16327pt.
 
-Overfull \vbox (1.30003pt too high) detected at line 498
+Overfull \vbox (1.30003pt too high) detected at line 501
  []
 
 File: logos/tu.pdf Graphic file (type pdf)
 <use logos/tu.pdf>
-Package luatex.def Info: logos/tu.pdf  used on input line 498.
+Package luatex.def Info: logos/tu.pdf  used on input line 501.
 (luatex.def)             Requested size: 140.30132pt x 22.76271pt.
 [28
 
@@ -2151,16 +2151,16 @@ Package luatex.def Info: logos/tu.pdf  used on input line 498.
 <images/Proton-PDF.png, id=309, 805.0075pt x 500.87125pt>
 File: images/Proton-PDF.png Graphic file (type png)
 <use images/Proton-PDF.png>
-Package luatex.def Info: images/Proton-PDF.png  used on input line 525.
+Package luatex.def Info: images/Proton-PDF.png  used on input line 528.
 (luatex.def)             Requested size: 241.50412pt x 150.26253pt.
 
-Overfull \hbox (7.61859pt too wide) in paragraph at lines 525--525
+Overfull \hbox (7.61859pt too wide) in paragraph at lines 528--528
  [] 
  []
 
 File: logos/tu.pdf Graphic file (type pdf)
 <use logos/tu.pdf>
-Package luatex.def Info: logos/tu.pdf  used on input line 525.
+Package luatex.def Info: logos/tu.pdf  used on input line 528.
 (luatex.def)             Requested size: 140.30132pt x 22.76271pt.
 [29
 
@@ -2168,11 +2168,11 @@ Package luatex.def Info: logos/tu.pdf  used on input line 525.
 <images/Experimente.png, id=318, 498.86375pt x 489.83pt>
 File: images/Experimente.png Graphic file (type png)
 <use images/Experimente.png>
-Package luatex.def Info: images/Experimente.png  used on input line 533.
+Package luatex.def Info: images/Experimente.png  used on input line 536.
 (luatex.def)             Requested size: 174.60492pt x 171.44305pt.
 File: logos/tu.pdf Graphic file (type pdf)
 <use logos/tu.pdf>
-Package luatex.def Info: logos/tu.pdf  used on input line 533.
+Package luatex.def Info: logos/tu.pdf  used on input line 536.
 (luatex.def)             Requested size: 140.30132pt x 22.76271pt.
  [30
 
@@ -2180,20 +2180,20 @@ Package luatex.def Info: logos/tu.pdf  used on input line 533.
 <images/proton-courier.png, id=327, 521.95pt x 550.055pt>
 File: images/proton-courier.png Graphic file (type png)
 <use images/proton-courier.png>
-Package luatex.def Info: images/proton-courier.png  used on input line 558.
+Package luatex.def Info: images/proton-courier.png  used on input line 562.
 (luatex.def)             Requested size: 178.60353pt x 188.21645pt.
 File: logos/tu.pdf Graphic file (type pdf)
 <use logos/tu.pdf>
-Package luatex.def Info: logos/tu.pdf  used on input line 558.
+Package luatex.def Info: logos/tu.pdf  used on input line 562.
 (luatex.def)             Requested size: 140.30132pt x 22.76271pt.
  [31
 
 <./images/proton-courier.png>]
 LaTeX Font Info:    Font shape `TU/FiraSansLight(0)/m/n' will be
-(Font)              scaled to size 14.24039pt on input line 563.
+(Font)              scaled to size 14.24039pt on input line 567.
 File: logos/tu.pdf Graphic file (type pdf)
 <use logos/tu.pdf>
-Package luatex.def Info: logos/tu.pdf  used on input line 563.
+Package luatex.def Info: logos/tu.pdf  used on input line 567.
 (luatex.def)             Requested size: 140.30132pt x 22.76271pt.
  [32
 
@@ -2207,14 +2207,14 @@ Package luatex.def Info: logos/tu.pdf  used on input line 563.
 \tf@snm=\write7
 
 \openout7 = Strukturfunktionen.snm
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 565.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 565.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 569.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 569.
  (./build/Strukturfunktionen.aux
 Module polyglossia Info: Language ngerman already loaded; id is 8 on input line 
 21
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 565.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 565.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 569.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 569.
 )
 
 Here is how much of LuaTeX's memory you used:
@@ -2227,7 +2227,7 @@ ack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
    avail lists: 1:3,2:649,3:215,4:252,5:313,6:55,7:1557,8:71,9:397,10:13,11:121,
 12:1
  41526 multiletter control sequences out of 65536+600000
- 81 fonts using 20968831 bytes
+ 81 fonts using 20968759 bytes
  64i,18n,132p,784b,796s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/lars/.local/texlive/2018/texmf-dist/fonts/opentype/public/firamath/FiraMa
 th-Regular.otf></home/lars/.local/texlive/2018/texmf-dist/fonts/opentype/public/
@@ -2235,7 +2235,7 @@ firamath/FiraMath-Regular.otf></home/lars/.local/texlive/2018/texmf-dist/fonts/o
 pentype/public/firamath/FiraMath-Regular.otf></home/lars/.local/texlive/2018/tex
 mf-dist/fonts/opentype/public/fira/FiraSans-Medium.otf></home/lars/.local/texliv
 e/2018/texmf-dist/fonts/opentype/public/fira/FiraSans-Light.otf>
-Output written on Strukturfunktionen.pdf (32 pages, 6642040 bytes).
+Output written on Strukturfunktionen.pdf (32 pages, 6642280 bytes).
 
 PDF statistics: 429 PDF objects out of 1000 (max. 8388607)
  328 compressed objects within 4 object streams

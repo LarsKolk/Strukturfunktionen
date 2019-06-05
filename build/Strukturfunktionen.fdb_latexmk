@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1559695383 "Strukturfunktionen.tex" "build/Strukturfunktionen.pdf" "Strukturfunktionen" 1559695389
+["lualatex"] 1559696942 "Strukturfunktionen.tex" "build/Strukturfunktionen.pdf" "Strukturfunktionen" 1559696948
   "/dev/null" 1559672833 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/home/lars/.local/texlive/2018/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/home/lars/.local/texlive/2018/texmf-dist/fonts/opentype/public/fira/FiraSans-Light.otf" 1480098676 359048 020f40e1d993eebe994bf90a060f9dde ""
@@ -192,11 +192,11 @@
   "/home/lars/.local/texlive/2018/texmf-dist/web2c/texmf.cnf" 1544742277 35176 ce7fee66be1fb01dfc6b702a7dbfa0ea ""
   "/home/lars/.local/texlive/2018/texmf-var/web2c/pdftex/pdflatex.fmt" 1556478633 4230370 b44474659d70e4de8a0d2fcdd15045d9 ""
   "/home/lars/.local/texlive/2018/texmf.cnf" 1556478617 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "Strukturfunktionen.tex" 1559695381 17572 4d58afceb2528f2d3bf22f3bccd95ff6 ""
+  "Strukturfunktionen.tex" 1559696939 17729 1847c0da6518174692ed8a0eb9a71c63 ""
   "beamerthemetudo.sty" 1559401620 6300 7b98dbe35b74965726ed45d862e110af ""
-  "build/Strukturfunktionen.aux" 1559695389 14458 67737c243a1488b10fa8a8ac6d385fa3 ""
-  "build/Strukturfunktionen.nav" 1559695389 5678 7b8a9c5b06535a389c0ca9aedaee79fd ""
-  "build/Strukturfunktionen.toc" 1559695389 890 cca76895230e6b9f79d865118fc260d5 ""
+  "build/Strukturfunktionen.aux" 1559696948 14458 bb7566721993f35d1721d667239345a2 ""
+  "build/Strukturfunktionen.nav" 1559696948 5678 7b8a9c5b06535a389c0ca9aedaee79fd ""
+  "build/Strukturfunktionen.toc" 1559696948 890 cca76895230e6b9f79d865118fc260d5 ""
   "images/Atom.png" 1559406410 132676 d94034f82977b27078638431f0bfad67 ""
   "images/Bjorken-1.png" 1559498755 132630 d3a16d59725b0ece2a0e94082b14d6fc ""
   "images/Bjorken-2.png" 1559498680 70825 0fef498353264670f3b64c88b759b594 ""
@@ -222,11 +222,11 @@
   "images/proton-courier.png" 1559693461 486677 a6aa0755ca6c2fe4793613970f27832c ""
   "logos/tu.pdf" 1559401620 13157 1c5905f8a3419899042add57a2182b18 ""
   (generated)
-  "build/Strukturfunktionen.snm"
-  "build/Strukturfunktionen.aux"
   "build/Strukturfunktionen.log"
-  "build/Strukturfunktionen.pdf"
-  "Strukturfunktionen.log"
   "Strukturfunktionen.pdf"
+  "build/Strukturfunktionen.pdf"
+  "build/Strukturfunktionen.snm"
   "build/Strukturfunktionen.toc"
   "build/Strukturfunktionen.nav"
+  "build/Strukturfunktionen.aux"
+  "Strukturfunktionen.log"
