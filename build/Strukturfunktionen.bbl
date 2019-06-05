@@ -1,0 +1,428 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Paper-TP}{article}{}
+      \name{author}{1}{}{%
+        {{hash=65c34b96fb98778840a135ea4e433c41}{%
+           family={al},
+           familyi={a\bibinitperiod},
+           given={B.\bibnamedelimi Foster},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{65c34b96fb98778840a135ea4e433c41}
+      \strng{fullhash}{65c34b96fb98778840a135ea4e433c41}
+      \strng{bibnamehash}{65c34b96fb98778840a135ea4e433c41}
+      \strng{authorbibnamehash}{65c34b96fb98778840a135ea4e433c41}
+      \strng{authornamehash}{65c34b96fb98778840a135ea4e433c41}
+      \strng{authorfullhash}{65c34b96fb98778840a135ea4e433c41}
+      \field{sortinit}{a}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Particle Data Group, Chin. Phys.}
+      \field{title}{Structure Functions}
+      \field{volume}{C 40}
+      \field{year}{2016}
+    \endentry
+    \entry{SLAC}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2b76cbc7f48b28f6332d97401c10fbdf}{%
+           family={Bharadwaj},
+           familyi={B\bibinitperiod},
+           given={Vinod\bibnamedelima Kumar},
+           giveni={V\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{2b76cbc7f48b28f6332d97401c10fbdf}
+      \strng{fullhash}{2b76cbc7f48b28f6332d97401c10fbdf}
+      \strng{bibnamehash}{2b76cbc7f48b28f6332d97401c10fbdf}
+      \strng{authorbibnamehash}{2b76cbc7f48b28f6332d97401c10fbdf}
+      \strng{authornamehash}{2b76cbc7f48b28f6332d97401c10fbdf}
+      \strng{authorfullhash}{2b76cbc7f48b28f6332d97401c10fbdf}
+      \field{sortinit}{B}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://portal.slac.stanford.edu/sites/ard_public/ard_students/lcschool/PublishingImages/Forms/AllItems.aspx?SortField=Editor&SortDir=Asc&View=%7B25D42671-029C-4E7A-A514-0ACFF9A380DB%7D
+      \endverb
+      \verb{url}
+      \verb https://portal.slac.stanford.edu/sites/ard_public/ard_students/lcschool/PublishingImages/Forms/AllItems.aspx?SortField=Editor&SortDir=Asc&View=%7B25D42671-029C-4E7A-A514-0ACFF9A380DB%7D
+      \endverb
+    \endentry
+    \entry{Courier}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b746321b51fc44bf535a930239fb32df}{%
+           family={CERNCOURIER},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b746321b51fc44bf535a930239fb32df}
+      \strng{fullhash}{b746321b51fc44bf535a930239fb32df}
+      \strng{bibnamehash}{b746321b51fc44bf535a930239fb32df}
+      \strng{authorbibnamehash}{b746321b51fc44bf535a930239fb32df}
+      \strng{authornamehash}{b746321b51fc44bf535a930239fb32df}
+      \strng{authorfullhash}{b746321b51fc44bf535a930239fb32df}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The proton laid bare}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://cerncourier.com/the-proton-laid-bare/
+      \endverb
+      \verb{url}
+      \verb https://cerncourier.com/the-proton-laid-bare/
+      \endverb
+    \endentry
+    \entry{DESY-H1}{online}{}
+      \name{author}{1}{}{%
+        {{hash=eccf0318bd2897673042ba89571c3066}{%
+           family={DESY},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{eccf0318bd2897673042ba89571c3066}
+      \strng{fullhash}{eccf0318bd2897673042ba89571c3066}
+      \strng{bibnamehash}{eccf0318bd2897673042ba89571c3066}
+      \strng{authorbibnamehash}{eccf0318bd2897673042ba89571c3066}
+      \strng{authornamehash}{eccf0318bd2897673042ba89571c3066}
+      \strng{authorfullhash}{eccf0318bd2897673042ba89571c3066}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The H1 experiment at HERA}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://h1.desy.de/
+      \endverb
+      \verb{url}
+      \verb https://h1.desy.de/
+      \endverb
+    \endentry
+    \entry{DESY-ZEUS}{online}{}
+      \name{author}{1}{}{%
+        {{hash=eccf0318bd2897673042ba89571c3066}{%
+           family={DESY},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{eccf0318bd2897673042ba89571c3066}
+      \strng{fullhash}{eccf0318bd2897673042ba89571c3066}
+      \strng{bibnamehash}{eccf0318bd2897673042ba89571c3066}
+      \strng{authorbibnamehash}{eccf0318bd2897673042ba89571c3066}
+      \strng{authornamehash}{eccf0318bd2897673042ba89571c3066}
+      \strng{authorfullhash}{eccf0318bd2897673042ba89571c3066}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The ZEUS Detector}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www-zeus.desy.de/public/zeus.php3
+      \endverb
+      \verb{url}
+      \verb https://www-zeus.desy.de/public/zeus.php3
+      \endverb
+    \endentry
+    \entry{TP}{online}{}
+      \name{author}{1}{}{%
+        {{hash=f3b80463671d6ae3532ee4597464635f}{%
+           family={Erdmann},
+           familyi={E\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f3b80463671d6ae3532ee4597464635f}
+      \strng{fullhash}{f3b80463671d6ae3532ee4597464635f}
+      \strng{bibnamehash}{f3b80463671d6ae3532ee4597464635f}
+      \strng{authorbibnamehash}{f3b80463671d6ae3532ee4597464635f}
+      \strng{authornamehash}{f3b80463671d6ae3532ee4597464635f}
+      \strng{authorfullhash}{f3b80463671d6ae3532ee4597464635f}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Protonstruktur}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://moodle.tu-dortmund.de/pluginfile.php/830891/mod_resource/content/1/chapter6_JE_ProtonStruktur.pdf
+      \endverb
+      \verb{url}
+      \verb https://moodle.tu-dortmund.de/pluginfile.php/830891/mod_resource/content/1/chapter6_JE_ProtonStruktur.pdf
+      \endverb
+    \endentry
+    \entry{Halzen}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4d6c73d74c2b7e0a2f3f0f247e760c6d}{%
+           family={Francis\bibnamedelima Halzen},
+           familyi={F\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Alan\bibnamedelimb D.\bibnamedelimi Martin},
+           giveni={A\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{4d6c73d74c2b7e0a2f3f0f247e760c6d}
+      \strng{fullhash}{4d6c73d74c2b7e0a2f3f0f247e760c6d}
+      \strng{bibnamehash}{4d6c73d74c2b7e0a2f3f0f247e760c6d}
+      \strng{authorbibnamehash}{4d6c73d74c2b7e0a2f3f0f247e760c6d}
+      \strng{authornamehash}{4d6c73d74c2b7e0a2f3f0f247e760c6d}
+      \strng{authorfullhash}{4d6c73d74c2b7e0a2f3f0f247e760c6d}
+      \field{sortinit}{F}
+      \field{sortinithash}{669c706c6f1fbf3b5a83d26f1d9e9e72}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{subtitle}{An Intructory Course in Modern Particle Physics}
+      \field{title}{Quark and Leptons:}
+      \field{year}{1984}
+    \endentry
+    \entry{KET}{online}{}
+      \name{author}{1}{}{%
+        {{hash=eb5fba611e96e631eda46741ad848bbe}{%
+           family={Kröninger},
+           familyi={K\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{eb5fba611e96e631eda46741ad848bbe}
+      \strng{fullhash}{eb5fba611e96e631eda46741ad848bbe}
+      \strng{bibnamehash}{eb5fba611e96e631eda46741ad848bbe}
+      \strng{authorbibnamehash}{eb5fba611e96e631eda46741ad848bbe}
+      \strng{authornamehash}{eb5fba611e96e631eda46741ad848bbe}
+      \strng{authorfullhash}{eb5fba611e96e631eda46741ad848bbe}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{subtitle}{Vorlesung 2}
+      \field{title}{Einführung in die Kern- und Elementarteilchenphysik}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://moodle.tu-dortmund.de/pluginfile.php/799742/mod_resource/content/1/Folien_2018.10.12.pdf
+      \endverb
+      \verb{url}
+      \verb https://moodle.tu-dortmund.de/pluginfile.php/799742/mod_resource/content/1/Folien_2018.10.12.pdf
+      \endverb
+    \endentry
+    \entry{Libre}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9460f134b77076ed4363533881aac2e4}{%
+           family={LibreTexts},
+           familyi={L\bibinitperiod},
+           given={PHYSICS},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9460f134b77076ed4363533881aac2e4}
+      \strng{fullhash}{9460f134b77076ed4363533881aac2e4}
+      \strng{bibnamehash}{9460f134b77076ed4363533881aac2e4}
+      \strng{authorbibnamehash}{9460f134b77076ed4363533881aac2e4}
+      \strng{authornamehash}{9460f134b77076ed4363533881aac2e4}
+      \strng{authorfullhash}{9460f134b77076ed4363533881aac2e4}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Main Experimental Facilities}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://phys.libretexts.org/Bookshelves/Particle_Physics/Book%3A_Nuclear_and_Particle_Physics_(Walet)/3%3A__Experimental_Tools/3.3%3A_Main_Experimental_Facilities
+      \endverb
+      \verb{url}
+      \verb https://phys.libretexts.org/Bookshelves/Particle_Physics/Book%3A_Nuclear_and_Particle_Physics_(Walet)/3%3A__Experimental_Tools/3.3%3A_Main_Experimental_Facilities
+      \endverb
+    \endentry
+    \entry{DESY-TALK}{online}{}
+      \name{author}{1}{}{%
+        {{hash=29c4d6f93e040fb4ec119758a67ad505}{%
+           family={Lipka},
+           familyi={L\bibinitperiod},
+           given={Katerina},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{29c4d6f93e040fb4ec119758a67ad505}
+      \strng{fullhash}{29c4d6f93e040fb4ec119758a67ad505}
+      \strng{bibnamehash}{29c4d6f93e040fb4ec119758a67ad505}
+      \strng{authorbibnamehash}{29c4d6f93e040fb4ec119758a67ad505}
+      \strng{authornamehash}{29c4d6f93e040fb4ec119758a67ad505}
+      \strng{authorfullhash}{29c4d6f93e040fb4ec119758a67ad505}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Proton Structure Measurementsat HERA}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.desy.de/~knegod/HGF/talks/katerina/Lipka_Seminar_Bonn.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.desy.de/~knegod/HGF/talks/katerina/Lipka_Seminar_Bonn.pdf
+      \endverb
+    \endentry
+    \entry{leifi}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bfdcb01712f3b3ba0003c9c011bd7614}{%
+           family={Physik},
+           familyi={P\bibinitperiod},
+           given={Leifi},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{bfdcb01712f3b3ba0003c9c011bd7614}
+      \strng{fullhash}{bfdcb01712f3b3ba0003c9c011bd7614}
+      \strng{bibnamehash}{bfdcb01712f3b3ba0003c9c011bd7614}
+      \strng{authorbibnamehash}{bfdcb01712f3b3ba0003c9c011bd7614}
+      \strng{authornamehash}{bfdcb01712f3b3ba0003c9c011bd7614}
+      \strng{authorfullhash}{bfdcb01712f3b3ba0003c9c011bd7614}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Rutherford-Experiment}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.leifiphysik.de/atomphysik/klassische-atommodelle/versuche/rutherford-experiment
+      \endverb
+      \verb{url}
+      \verb https://www.leifiphysik.de/atomphysik/klassische-atommodelle/versuche/rutherford-experiment
+      \endverb
+    \endentry
+    \entry{Wiki-H1}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{H1 (particle detector)}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/H1_(particle_detector)
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/H1_(particle_detector)
+      \endverb
+    \endentry
+    \entry{Wiki-Proton}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Proton}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Proton
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Proton
+      \endverb
+    \endentry
+    \entry{Wiki-Zeus}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9c677286866aad38f8e9b660f5411814}{%
+           family={Wikipedia},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{3}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{ZEUS (particle detector)}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/ZEUS_(particle_detector)
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/ZEUS_(particle_detector)
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

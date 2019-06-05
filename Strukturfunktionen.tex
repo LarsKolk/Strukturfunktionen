@@ -18,6 +18,11 @@
 \usepackage{bookmark}
 \usepackage{color}
 
+\usepackage[
+  backend=biber,
+]{biblatex}
+% Quellendatenbank
+\addbibresource{lit.bib}
 
 % load the theme after all packages
 
@@ -54,7 +59,11 @@
 \begin{frame}{Das Proton}
 \begin{columns}
 \begin{column}{0.40\textwidth}
-  \includegraphics[width = \textwidth]{images/atom.png}
+  \begin{figure}
+      \includegraphics[width = \textwidth]{images/atom.png}
+  \caption{entnommen aus \cite{leifi}.}
+  \end{figure}
+
 \end{column}
 \begin{column}{0.60\textwidth}
     Protonen:
@@ -72,7 +81,10 @@
 \begin{frame}{Die Valenzquarks}
   \begin{columns}
     \begin{column}{0.40\textwidth}
-      \includegraphics[width = \textwidth]{images/Proton.png}
+      \begin{figure}
+        \includegraphics[width = \textwidth]{images/Proton.png}
+        \caption{entnommen aus \cite{Wiki-Proton}.}
+      \end{figure}
     \end{column}
 
     \begin{column}{0.45\textwidth}
@@ -102,7 +114,11 @@
 \begin{frame}{Rückblick: Das Rutherford Experiment}
   \begin{columns}
     \begin{column}{0.4\textwidth}
-      \includegraphics[width=\textwidth]{images/Rutherford1.png}
+      \begin{figure}
+        \includegraphics[width=\textwidth]{images/Rutherford1.png}
+        \caption{entnommen aus \cite{leifi}.}
+      \end{figure}
+
     \end{column}
     \begin{column}{0.6\textwidth}
       \begin{itemize}
@@ -131,7 +147,11 @@
 \begin{frame}{Rutherford-Streuformel}
   \begin{columns}
     \begin{column}{0.4\textwidth}
-      \includegraphics[width=\textwidth]{images/Streuung.png}
+      \begin{figure}
+        \includegraphics[width=\textwidth]{images/Streuung.png}
+        \caption{entnommen aus \cite{leifi}.}        
+      \end{figure}
+
     \end{column}
     \begin{column}{0.6\textwidth}
       \begin{itemize}
@@ -172,7 +192,7 @@
 \begin{frame}{Ladungsverteilung und Formfaktoren}
 \begin{itemize}
   \item{Bisher: Punktförmige Ladung}
-  \item{Nun: Ladungsverteilung $\rightarrow$  (erneute) Modifikation des Wirkungsquerschnittes}
+  \item{Nun: Ladungsverteilung $\rightarrow$ (erneute) Modifikation des Wirkungsquerschnittes}
   \begin{itemize}
     \item{$\left( \frac{\symup{d} \sigma}{\symup{d} \Omega } \right) = \left( \frac{\symup{d} \sigma}{\symup{d} \Omega } \right)_\text{Mott} \cdot \left| F(\vec{q}) \right|^2 $}
     \item{$F(\vec{q}) = \displaystyle \int{ exp{\left(\frac{i}{\hbar} \vec{x} \vec{q} \right)} \rho(\vec{x}) \symup{d}\vec{x} } $}
@@ -184,13 +204,19 @@
 
 
 \begin{frame}
-\centering
-  \includegraphics[scale=0.35]{images/Form.png}
+\begin{figure}
+  \centering
+  \includegraphics[scale=0.31]{images/Form.png}
+  \caption{entnommen aus \cite{KET}.}
+\end{figure}
 \end{frame}
 
 \begin{frame}
-\centering
-  \includegraphics[scale=0.4]{images/Ladungsverteilung.png}
+  \begin{figure}
+    \centering
+    \includegraphics[scale=0.4]{images/Ladungsverteilung.png}
+    \caption{entnommen aus \cite{KET}.}
+  \end{figure}
 \end{frame}
 
 \begin{frame}{Warum ist das wichtig?}
@@ -229,6 +255,7 @@
   \begin{figure}[H]
   \centering
   \includegraphics[width=0.7\textwidth]{images/inelastic.png}
+  \caption{entnommen aus \cite{TP}.}
   \end{figure}
   Gut, aber noch keine Information über Quark-Struktur
 \end{frame}
@@ -238,6 +265,7 @@
 \begin{figure}
   \centering
   \includegraphics[width=0.7\textwidth]{images/ep-deep-inelastic-scattering-1.jpg}
+  \caption{entnommen aus \cite{Halzen}.}
 \end{figure}
 \end{frame}
 
@@ -303,6 +331,7 @@
       \begin{figure}
         \centering
         \includegraphics[width=0.75\textwidth]{images/ariel2.jpg}
+        \caption{entnommen aus \cite{SLAC}}
       \end{figure}
     \end{column}
   \end{columns}
@@ -316,11 +345,12 @@
   \begin{column}{0.45\textwidth}
     \begin{figure}
     \centering
-    \includegraphics[width=0.8\textwidth]{images/Bjorken-1.png}
+    \includegraphics[width=0.7\textwidth]{images/Bjorken-1.png}
   \end{figure}
   \begin{figure}
     \centering
-    \includegraphics[width=0.8\textwidth]{images/Bjorken-2.png}
+    \includegraphics[width=0.7\textwidth]{images/Bjorken-2.png}
+    \caption{entnommen aus \cite{TP}.}
   \end{figure}
   \end{column}
   \begin{column}{0.55\textwidth}
@@ -345,6 +375,7 @@
   \begin{figure}
     \centering
     \includegraphics[width=0.7\textwidth]{images/DESY.jpg}
+    \caption{entnommen aus \cite{DESY-H1}.}
   \end{figure}
 \end{frame}
 
@@ -368,6 +399,7 @@
       \begin{figure}
         \centering
         \includegraphics[width=0.6\textwidth]{images/hera.png}
+        \caption{entnommen aus \cite{Libre}.}
       \end{figure}
       \centering
       \begin{itemize}
@@ -417,6 +449,7 @@ Eckdaten:
       \begin{figure}
         \centering
         \includegraphics[width=0.8\textwidth]{images/Zeus.png}
+        \caption{entnommen aus \cite{DESY-ZEUS}.}
       \end{figure}
     \end{column}
   \end{columns}
@@ -426,6 +459,7 @@ Eckdaten:
   \begin{figure}
     \centering
     \includegraphics[width=0.6\textwidth]{images/Zeus-Real.jpeg}
+    \caption{entnommen aus \cite{Wiki-Zeus}.}
   \end{figure}
 \end{frame}
 
@@ -461,6 +495,7 @@ Eckdaten:
       \begin{figure}
         \centering
         \includegraphics[width=0.9\textwidth]{images/H1.png}
+        \caption{entnommen aus \cite{DESY-H1}.}
       \end{figure}
     \end{column}
   \end{columns}
@@ -471,13 +506,15 @@ Eckdaten:
   \begin{figure}
     \centering
     \includegraphics[width=0.50\textwidth]{images/ep-ep.png}
+    \caption{entnommen aus \cite{DESY-TALK} }
   \end{figure}
 \end{frame}
 
 \begin{frame}
   \begin{figure}
     \centering
-    \includegraphics[width=0.65\textwidth]{images/H1_detector.jpg}
+    \includegraphics[width=0.55\textwidth]{images/H1_detector.jpg}
+    \caption{entnommen aus \cite{Wiki-H1}.}
   \end{figure}
 \end{frame}
 
@@ -502,7 +539,8 @@ Eckdaten:
     \begin{column}{0.7\textwidth}
       \begin{figure}
         \centering
-        \includegraphics[width=0.55\textwidth]{images/Skalen.png}
+        \includegraphics[width=0.51\textwidth]{images/Skalen.png}
+        \caption{entnommen aus \cite{Paper-TP}.}
       \end{figure}
     \end{column}
   \end{columns}
@@ -515,6 +553,7 @@ Eckdaten:
       \begin{figure}
     \centering
     \includegraphics[scale=0.30]{images/Proton-PDF.png}
+    \caption{entnommen aus \cite{Paper-TP}.}
   \end{figure}
     \end{column}
 
@@ -551,6 +590,7 @@ Eckdaten:
   \begin{figure}
     \centering
     \includegraphics[scale=0.35]{images/Experimente.png}
+    \caption{entnommen aus \cite{Paper-TP}.}
   \end{figure}
 \end{frame}
 
@@ -574,7 +614,8 @@ Eckdaten:
     \begin{column}{0.6\textwidth}
       \begin{figure}
         \centering
-        \includegraphics[width=0.7\textwidth]{images/proton-courier.png}
+        \includegraphics[width=0.6\textwidth]{images/proton-courier.png}
+        \caption{entnommen aus \cite{Courier}}
       \end{figure}
     \end{column}
   \end{columns}
@@ -583,6 +624,10 @@ Eckdaten:
 \begin{frame}
 \centering
 \Huge{Vielen Dank für Eure Aufmerksamkeit!}
+\end{frame}
+
+\begin{frame}[allowframebreaks]{Quellen}
+  \printbibliography
 \end{frame}
 
 \end{document}
