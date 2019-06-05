@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2019.4.28)  5 JUN 2019 03:09
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2019.4.28)  5 JUN 2019 03:12
  restricted system commands enabled.
 **Strukturfunktionen.tex
 (./Strukturfunktionen.tex
@@ -48,7 +48,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.093 seconds
+luaotfload | main : initialization completed in 0.088 seconds
 (/home/lars/.local/texlive/2018/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
 
@@ -975,10 +975,10 @@ File: gloss-german.ldf polyglossia: module for german
 Module polyglossia Info: Language data for german
 (polyglossia)            loader	loadhyph-de-1901.tex
 (polyglossia)            patterns	hyph-de-1901.pat.txt
-(polyglossia)            righthyphenmin	2
-(polyglossia)            lefthyphenmin	2
-(polyglossia)            synonyms	table: 0x6053470
+(polyglossia)            synonyms	table: 0x4ccbaa0
 (polyglossia)            hyphenation	
+(polyglossia)            lefthyphenmin	2
+(polyglossia)            righthyphenmin	2
 (polyglossia)            patterns: hyph-de-1901.pat.txt on input line 6
 Module polyglossia Info: Language german was not yet loaded; created with id 4 o
 n input line 6
@@ -987,10 +987,10 @@ Module polyglossia Info: Language german already loaded; id is 4 on input line 6
 Module polyglossia Info: Language data for ngerman
 (polyglossia)            loader	loadhyph-de-1996.tex
 (polyglossia)            patterns	hyph-de-1996.pat.txt
-(polyglossia)            righthyphenmin	2
-(polyglossia)            lefthyphenmin	2
-(polyglossia)            synonyms	table: 0x6053640
+(polyglossia)            synonyms	table: 0x4ccbc70
 (polyglossia)            hyphenation	
+(polyglossia)            lefthyphenmin	2
+(polyglossia)            righthyphenmin	2
 (polyglossia)            patterns: hyph-de-1996.pat.txt on input line 68
 Module polyglossia Info: Language ngerman was not yet loaded; created with id 8 
 on input line 68
@@ -2227,7 +2227,7 @@ ack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
    avail lists: 1:3,2:649,3:215,4:252,5:313,6:55,7:1557,8:71,9:397,10:13,11:121,
 12:1
  41526 multiletter control sequences out of 65536+600000
- 81 fonts using 20968759 bytes
+ 81 fonts using 20968903 bytes
  64i,18n,132p,784b,796s stack positions out of 5000i,500n,10000p,200000b,100000s
 </home/lars/.local/texlive/2018/texmf-dist/fonts/opentype/public/firamath/FiraMa
 th-Regular.otf></home/lars/.local/texlive/2018/texmf-dist/fonts/opentype/public/
@@ -2235,7 +2235,7 @@ firamath/FiraMath-Regular.otf></home/lars/.local/texlive/2018/texmf-dist/fonts/o
 pentype/public/firamath/FiraMath-Regular.otf></home/lars/.local/texlive/2018/tex
 mf-dist/fonts/opentype/public/fira/FiraSans-Medium.otf></home/lars/.local/texliv
 e/2018/texmf-dist/fonts/opentype/public/fira/FiraSans-Light.otf>
-Output written on Strukturfunktionen.pdf (32 pages, 6642280 bytes).
+Output written on Strukturfunktionen.pdf (32 pages, 6642277 bytes).
 
 PDF statistics: 429 PDF objects out of 1000 (max. 8388607)
  328 compressed objects within 4 object streams
